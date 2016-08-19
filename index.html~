@@ -39,7 +39,7 @@
 
 
 <!-- Image Background Page Header -->
-    <body background="akash.jpg">
+    <body background="index.jpg">
     <header class="business-header">
         <div class="container">
             <div class="row">
@@ -64,7 +64,7 @@
                 <h2>Contact Me</h2>
                 <address>
                     <strong>Akash Krishnan</strong>
-                    <br>Amrita University 
+                    <br>Amrita University
                     <br>Kollam, Kerala
                     <br>Pincode : 690525
                 </address>
@@ -84,12 +84,12 @@
                 <p>Get into cubes</p>
             </div>
             <div class="col-sm-4">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
+                <img class="img-circle img-responsive img-center" src="resume.jpg" alt="">
                 <h2>Resume</h2>
                 <p>Here is my resume</p>
             </div>
             <div class="col-sm-4">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
+                <img class="img-circle img-responsive img-center" src="academics.jpg" alt="">
                 <h2>Academics</h2>
                 <p>Currently a second year B.Tech student</p>
             </div>
@@ -109,8 +109,8 @@
         </footer>
 
     </div>
- 
-	
+
+
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
