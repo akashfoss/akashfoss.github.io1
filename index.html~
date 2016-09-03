@@ -27,6 +27,10 @@
       <li class="active"><a href="index.html">Home</a></li>
       <li><a href="https://learntillyoudie.wordpress.com/" >Blog</a></li>
        <li><a href="https://github.com/akashfoss/" >Github</a></li>
+       <li><a class="navbar-brand" rel="home" href="#" title="Buy Sell Rent Everyting">
+        <img style="max-width:100px; margin-top: -7px;"
+             src="/img/transparent-white-logo.png">
+    </a></li>
     </ul>
   </div>
 </nav>
@@ -58,8 +62,10 @@
         <div class="row">
             <div class="col-sm-8">
                 <h2><font color="lightgrey">What I Do</font></h2>
-                <p>Morning to evening Academics, rest for open source</p>
-		
+                <p><font face="arial" color="lightgrey">Hello guys,</font></p>
+		<p><font face="arial" color="lightgrey">Currently I'm working on Drupal core</font></p>
+		<p><font face="arial" color="lightgrey">Would like to work for any other non-profit organisations as well</font></p>
+		<p><font face="arial" color="lightgrey">I like to do things in a creative way</font></p>
             </div>
             <div class="col-sm-4">
                 <h2><font color="lightgrey">Contact Me</font></h2>
@@ -101,10 +107,7 @@
         </div>
 
         <!-- /.row -->
-	
-	
 	<hr>
-
         <!-- Footer -->
         <footer>
             <div class="row">
